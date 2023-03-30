@@ -129,7 +129,7 @@ const Login = (props) => {
     <div className="login__container">
       <div className="login__welcome">
         <div className="login__logo">
-          <p>End to End Encrypted Chat App</p>
+          <p>End to End Encrypted Webchat</p>
         </div>
       </div>
       <div className="login__form-container">
